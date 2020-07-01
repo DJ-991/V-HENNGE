@@ -1,6 +1,6 @@
 Improvement Suggestions:
 
-1. DataTable should have another colums to filter data by time and date sepreately(depends on backend data also). So that user can check data date wise and time wise for a date.
+1. DataTable should have another colums to filter data by time and date sepreately(depends on backend data also). So that user can check data date-wise and time-wise.
 
 2. For Mobile View DateRanger-Picker should be centered for better user experience.
 
